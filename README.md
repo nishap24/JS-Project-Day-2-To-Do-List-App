@@ -1,6 +1,6 @@
-## Title
+# JS-Project-Day-2-To-Do-List-App
 
-Nisha Kanasu💛--To do list
+Nisha P--To do list App
 ## Description 
 
 📝✅ MyToDoList: A responsive to-do list website 🌐📱 built using HTML, CSS, and JS. Save your tasks and data will persist until cleared.
