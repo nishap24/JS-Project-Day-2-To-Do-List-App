@@ -1,1 +1,1 @@
-# JS-Project-Day-2-To-Do-List-App
+# JS-Project-Day-2 To-Do-List App
