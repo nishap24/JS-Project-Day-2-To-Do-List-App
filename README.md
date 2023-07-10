@@ -6,7 +6,7 @@ Nisha P--To do list App
 📝✅ MyToDoList: A responsive to-do list website 🌐📱 built using HTML, CSS, and JS. Save your tasks and data will persist until cleared.
 ## Authors
 
-- [TG💛](https://www.github.com/nishap24) 
+- [NK💛](https://www.github.com/nishap24) 
 
 
 ## Demo
