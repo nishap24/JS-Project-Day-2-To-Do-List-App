@@ -41,7 +41,9 @@ To explore or modify the code, follow these steps:
 
 4️⃣ Save tasks and data persistently until cleared.
 
+## Deployment Status:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81f916cc-5618-44e5-a0bb-6ef0e1676590/deploy-status)](https://app.netlify.com/sites/kanasu-todo-list/deploys)
 
 ## Contributing
 
